@@ -1,0 +1,13 @@
+Andrew Owen Homework 1
+ 
+ [4]
+ 
+barplot(table(dat$level));#(b)
+hist(dat$speed, main = "Historgram of Speed");#(c)
+
+(b) Most of the students in the course are Junior or
+	Seniors. The distribution is skewed left.
+	
+(c) This is a unimodal histogram with slight skew to
+	the right. With most values centered between 75 and
+	150.
